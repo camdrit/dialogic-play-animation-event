@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   fill="none"
+   version="1.1"
+   id="svg170"
+   sodipodi:docname="playanimation.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs174" />
+  <sodipodi:namedview
+     id="namedview172"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="16.046875"
+     inkscape:cx="31.968841"
+     inkscape:cy="31.968841"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg170" />
+  <path
+     d="m 16,20 v 28 h 2.583407 v -4 h 4.05945 v 4 h 17.714285 v -4 h 4.428572 v 4 H 47 V 20 h -2.214286 v 4 H 40.357142 V 20 H 22.642857 v 4 h -4.05945 v -4 z m 2.583407,8 h 4.05945 v 4.000001 h -4.05945 z m 21.773735,0 h 4.428572 v 4.000001 h -4.428572 z m -21.773735,8.000001 h 4.05945 v 4 h -4.05945 z m 21.773735,0 h 4.428572 v 4 h -4.428572 z"
+     fill="#ffffff"
+     id="path168"
+     style="stroke-width:0.476308" />
+</svg>
